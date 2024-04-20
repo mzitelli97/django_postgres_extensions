@@ -1,7 +1,13 @@
-This fork has fixes for
-- [Fixed gettext_lazy for django 3.x](https://github.com/apoorvparijat/django_postgres_extensions/commit/5ea7a91586abba5b76738ae4a55a0a0dfaed8a8c)
-- [MutableSet import for python 3.9](https://github.com/apoorvparijat/django_postgres_extensions/commit/9bedaf9c2b76bc1120c6079de68c836fbe96c06b)
+## Overview 
+Fork of un-maintained django_postgres_extensions with fixes for Django >3 and Python >=3.9
 
+This fork has fixes for
+
+
+- `Fixed gettext_lazy for django 3.x <https://github.com/apoorvparijat/django_postgres_extensions/commit/5ea7a91586abba5b76738ae4a55a0a0dfaed8a8c>`_
+- `MutableSet import for python 3.9 <https://github.com/apoorvparijat/django_postgres_extensions/commit/9bedaf9c2b76bc1120c6079de68c836fbe96c06b>`_
+
+-----
 
 Django Postgres Extensions!
 ===========================
